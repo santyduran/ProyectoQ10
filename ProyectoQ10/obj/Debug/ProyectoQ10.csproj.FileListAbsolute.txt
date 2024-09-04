@@ -1,0 +1,8 @@
+C:\Users\santi\OneDrive\Escritorio\algoritmos\ProyectoQ10\ProyectoQ10\bin\Debug\ProyectoQ10.exe.config
+C:\Users\santi\OneDrive\Escritorio\algoritmos\ProyectoQ10\ProyectoQ10\bin\Debug\ProyectoQ10.exe
+C:\Users\santi\OneDrive\Escritorio\algoritmos\ProyectoQ10\ProyectoQ10\bin\Debug\ProyectoQ10.pdb
+C:\Users\santi\OneDrive\Escritorio\algoritmos\ProyectoQ10\ProyectoQ10\obj\Debug\ProyectoQ10.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Escritorio\algoritmos\ProyectoQ10\ProyectoQ10\obj\Debug\ProyectoQ10.csproj.SuggestedBindingRedirects.cache
+C:\Users\santi\OneDrive\Escritorio\algoritmos\ProyectoQ10\ProyectoQ10\obj\Debug\ProyectoQ10.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Escritorio\algoritmos\ProyectoQ10\ProyectoQ10\obj\Debug\ProyectoQ10.exe
+C:\Users\santi\OneDrive\Escritorio\algoritmos\ProyectoQ10\ProyectoQ10\obj\Debug\ProyectoQ10.pdb
