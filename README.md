@@ -1,7 +1,7 @@
-# **Nombre de la Aplicación**
+# **Proyecto Q10**
 
 **Descripción breve:**  
-Una breve descripción de lo que hace tu aplicación y su propósito.
+Es una aplicacion de consola para gestionar una lista de tareas, la cual permite agregar, listar, eliminar y marcar tareas como completadas.
 
 ## **Requisitos del sistema**
 
@@ -13,7 +13,7 @@ Una breve descripción de lo que hace tu aplicación y su propósito.
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/tu_usuario/nombre_del_repositorio.git
+   git clone https://github.com/santyduran/Proyectoq10.git
    ```
 2. **Abre el proyecto en Visual Studio:**
    - Navega a la carpeta donde clonaste el repositorio y abre el archivo `.sln`.
@@ -39,55 +39,18 @@ Una breve descripción de lo que hace tu aplicación y su propósito.
 ### **Opciones disponibles**
 
 ```bash
-nombre_de_la_aplicacion.exe [comando] [opciones]
-
-Comandos:
-  comando1    Descripción del primer comando
-  comando2    Descripción del segundo comando
+ProyectoQ10.exe
 
 Opciones:
-  -h, --help  Muestra la ayuda para los comandos disponibles
-  -v, --version  Muestra la versión actual de la aplicación
+  1. Agregar tareas
+  2. Listar tareas registradas
+  3. Marcar tareas como completadas
+  4. Eliminar tareas
+  5. Salir 
 ```
-
-### **Ejemplos de uso**
-
-```bash
-nombre_de_la_aplicacion.exe comando1 -parametro valor
-```
-
-Explica aquí ejemplos concretos de cómo utilizar tu aplicación con los diferentes comandos y opciones.
-
-## **Contribución**
-
-Si deseas contribuir a este proyecto, sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una rama con una descripción clara:
-   ```bash
-   git checkout -b nombre-de-la-rama
-   ```
-3. Realiza tus cambios y haz un commit:
-   ```bash
-   git commit -m "Descripción de los cambios"
-   ```
-4. Envía tus cambios al repositorio remoto:
-   ```bash
-   git push origin nombre-de-la-rama
-   ```
-5. Crea un Pull Request en GitHub.
-
-## **Licencia**
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para obtener más detalles.
 
 ## **Contacto**
 
-**Autor:** [Tu Nombre]  
-**Email:** [tu.email@example.com]  
-**LinkedIn:** [Enlace a tu perfil de LinkedIn]  
-**Repositorio:** [Enlace al repositorio de GitHub]
-
----
-
-Puedes personalizar este `README.md` según las especificaciones de tu proyecto y cualquier detalle adicional que quieras incluir.
+**Autor:** [Santiago Duran Osorio]  
+**Email:** [santiagrone@gmail.com]   
+**Repositorio:** [[https://github.com/santyduran](https://github.com/santyduran)]
